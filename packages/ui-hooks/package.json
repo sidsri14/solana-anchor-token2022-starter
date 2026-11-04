@@ -1,0 +1,9 @@
+{
+  "name": "@token-suite/ui-hooks",
+  "version": "1.0.0",
+  "peerDependencies": {
+    "@solana/wallet-adapter-react": "^0.15.35",
+    "@solana/web3.js": "^1.95.3",
+    "react": ">=18.0.0"
+  }
+}

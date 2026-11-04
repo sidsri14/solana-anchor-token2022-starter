@@ -1,0 +1,35 @@
+[toolchain]
+anchor_version = "0.30.1"
+solana_version = "1.18.26"
+
+[features]
+resolution = true
+skip-lint = false
+
+[programs.localnet]
+token_suite = "Tokn221111111111111111111111111111111111111"
+
+[programs.devnet]
+token_suite = "Tokn221111111111111111111111111111111111111"
+
+[registry]
+url = "https://api.apr.dev"
+
+[provider]
+cluster = "Localnet"
+wallet = "~/.config/solana/id.json"
+
+[scripts]
+test = "pnpm run test"
+build = "anchor build"
+
+[test]
+startup_wait = 5000
+shutdown_wait = 2000
+upgradeable = false
+
+[test.validator]
+url = "https://api.mainnet-beta.solana.com"
+bind_address = "127.0.0.1"
+rpc_port = 8899
+warp_slot = 1337
