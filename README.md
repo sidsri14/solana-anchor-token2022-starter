@@ -72,5 +72,7 @@ solana-anchor-token2022-starter/
 
 ## 📄 License & Commercial Distribution
 
-This starter is distributed under the MIT License for the core open-source edition.
-For the commercial multi-tenant edition and priority Discord support, visit [Polar.sh](https://polar.sh).
+[![Get Pro Edition on Polar](https://img.shields.io/badge/Polar.sh-Get_Pro_Access_%2449-blue?style=for-the-badge&logo=github)](https://polar.sh/sidsri14/products)
+
+- **Community Edition:** Free & Open Source under the MIT License.
+- **Pro / Commercial Edition ($49):** Includes priority Discord support, advanced Token-2022 confidential transfer extensions, and production deployment scripts. Available via [Polar.sh](https://polar.sh/sidsri14).
