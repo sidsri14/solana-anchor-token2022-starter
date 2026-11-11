@@ -73,4 +73,4 @@ solana-anchor-token2022-starter/
 ## 📄 License & Custom Smart Contract Engineering
 
 - **Open Source License:** MIT License (`LICENSE`).
-- **Custom Anchor / Token-2022 Engineering:** Need custom transfer hook programs, fee mechanics, PDA architecture, or Rust security audits? Reach out directly at **`sidsri1502@gmail.com`** or via Upwork (`Sid Sri`).
+- **Custom Anchor / Token-2022 Engineering ($60/hr):** Need custom transfer hook programs, fee mechanics, PDA architecture, or Rust code reviews? Reach out via **`sidsri1502@gmail.com`**, inspect [`sidsri14.github.io`](https://sidsri14.github.io/), or [Hire on Upwork](https://www.upwork.com/freelancers/~01f93f1a56b9ef1b8d).
