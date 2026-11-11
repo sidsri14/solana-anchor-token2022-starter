@@ -28,7 +28,7 @@ Ensure you have the following installed:
 ### 2. Installation
 ```bash
 # Clone the repository
-git clone https://github.com/your-org/solana-anchor-token2022-starter.git
+git clone https://github.com/sidsri14/solana-anchor-token2022-starter.git
 cd solana-anchor-token2022-starter
 
 # Install monorepo dependencies
@@ -70,9 +70,7 @@ solana-anchor-token2022-starter/
 
 ---
 
-## 📄 License & Commercial Distribution
+## 📄 License & Custom Smart Contract Engineering
 
-[![Get Pro Edition on Polar](https://img.shields.io/badge/Polar.sh-Instant_Checkout_%2449-blue?style=for-the-badge&logo=github)](https://buy.polar.sh/polar_cl_4yZQH8N57BZNYhFowHUSqE4vvUAMzYXeA5r0f2zbD50)
-
-- **Community Edition:** Free & Open Source under the MIT License.
-- **Pro / Commercial Edition ($49):** Includes priority Discord support, advanced Token-2022 confidential transfer extensions, and production deployment scripts. 👉 [**Instant Checkout on Polar.sh ($49)**](https://buy.polar.sh/polar_cl_4yZQH8N57BZNYhFowHUSqE4vvUAMzYXeA5r0f2zbD50)
+- **Open Source License:** MIT License (`LICENSE`).
+- **Custom Anchor / Token-2022 Engineering:** Need custom transfer hook programs, fee mechanics, PDA architecture, or Rust security audits? Reach out directly at **`sidsri1502@gmail.com`** or via Upwork (`Sid Sri`).
